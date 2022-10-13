@@ -2,7 +2,7 @@
 It is a dog dating site. like how Tinder is for people. This static but responsive website only displays the front end.
 
 ## Author
-Shreynansh Agrawal
+Shreyansh Agrawal
 
 ## Deployment
 Open all the folders and files in a code editor and run index file on a local server.
